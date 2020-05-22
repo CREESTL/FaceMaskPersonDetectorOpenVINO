@@ -4,7 +4,7 @@
 - run `setupvars.bat`
 - run `face_mask_person_detector.py` via <strong>command line</strong>
 ____
-If you want to test it not on a different video - not webcam, change line `328` to `cap = cv.VideoCapture("test_imgs/doctor.mp4")`
+If you want to test it on a different video - not webcam, change line `328` to `cap = cv.VideoCapture("test_imgs/doctor.mp4")`
 
 This program can:
 * detect&count persons on the video
