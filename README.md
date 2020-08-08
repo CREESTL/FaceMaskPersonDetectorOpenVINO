@@ -9,5 +9,5 @@ If you want to test it on a different video - not webcam, change line `328` to `
 This program can:
 * detect&count persons on the video
 * detect person's face
-* detect a medical mask (yolov3 was trained to to this from scratch)
+* detect a medical mask (yolov3 was trained to do this from scratch)
 * check if a mask is on person's face
