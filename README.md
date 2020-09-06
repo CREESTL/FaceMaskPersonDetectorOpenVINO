@@ -1,6 +1,6 @@
 # FaceMaskPersonDetector
 ## How to run it?
-- download weights for yolov3 [here](https://yadi.sk/d/vR00d0nHVo1qUA) and put it near `yolov3.cfg`
+- download weights for yolov3 [here](https://yadi.sk/d/WuMc8B3krEHh1Q) and put it near `yolov3.cfg`
 - run `setupvars.bat`
 - run `face_mask_person_detector.py` via <strong>command line</strong>
 ____
